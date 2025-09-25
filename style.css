@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+.card {
+  border: 1px solid #ddd;
+  margin: 5px 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+form {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+button { cursor: pointer; }
